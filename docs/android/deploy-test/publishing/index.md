@@ -32,7 +32,7 @@ Wie Sie im oben stehenden Diagramm erkennen können, unterscheidet sich die Vorb
 -   **Über einen Marketplace**: Es gibt mehrere Anwendungsmarketplaces, die der Verteilung dienen, wie z.B. [Google Play](http://play.google.com/) oder der [Amazon Appstore für Android](http://www.amazon.com/mobile-apps/b?ie=UTF8&node=2350149011).
 
 
-Ein etablierten Marketplace ist die am häufigsten gewählte Methode zur Verteilung einer Anwendung, da so die weiteste Reichweite und die höchstmögliche Kontrolle über die Verteilung erreicht wird. Die Veröffentlichung einer Anwendung auf einem Marketplace geht jedoch mit einem Mehraufwand einher.
+Ein etablierter Marketplace ist die am häufigsten gewählte Methode zur Verteilung einer Anwendung, da so die höchste Reichweite und die höchstmögliche Kontrolle über die Verteilung erreicht wird. Die Veröffentlichung einer Anwendung auf einem Marketplace geht jedoch mit einem Mehraufwand einher.
 
 Eine Xamarin.Android-Anwendung kann gleichzeitig über mehrere Kanäle verteilt werden. Eine Anwendung kann beispielsweise in Google Play und dem Amazon Appstore für Android veröffentlicht sowie über einen Webserver heruntergeladen werden.
 
@@ -45,7 +45,7 @@ Google Play ist einer der umfassendsten und beliebtesten Marketplaces für Andro
 
 [![Screenshot von Google Play](images/google-play-app.png)](images/google-play-app.png#lightbox)
 
-In diesem Abschnitt wurde gezeigt, wie die Anwendung in einem Store wie Google Play zusammen mit passenden Werbematerialien hochgeladen werden kann. Es wurden allgemeine Informationen zu APK-Erweiterungsdateien und eine Übersicht über deren Funktionsweise zur Verfügung gestellt. Außerdem wurden die Google-Lizenzierungsdienste beschrieben. Zum Schluss wurden alternative Verteilungsmethoden wie u.a. die Verwendung eines HTTP-Webservers, die einfache Verteilung per E-Mail und der Amazon App Store für Android dargestellt.
+In diesem Abschnitt wird gezeigt, wie die Anwendung in einem Store wie Google Play zusammen mit passenden Werbematerialien hochgeladen werden kann. Es werden allgemeine Informationen zu APK-Erweiterungsdateien und eine Übersicht über deren Funktionsweise zur Verfügung gestellt. Außerdem werden die Google-Lizenzierungsdienste beschrieben. Zum Schluss werden alternative Verteilungsmethoden wie u.a. die Verwendung eines HTTP-Webservers, die einfache Verteilung per E-Mail und der Amazon App Store für Android dargestellt.
 
 
 ## <a name="related-links"></a>Verwandte Links
